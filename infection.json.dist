@@ -4,6 +4,9 @@
             "src"
         ]
     },
+    "phpUnit": {
+        "configDir": "."
+    },
     "mutators": {
         "@default": true
     }

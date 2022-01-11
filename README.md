@@ -5,6 +5,7 @@
 [![License](http://poser.pugx.org/navarr/specific-time/license)](https://packagist.org/packages/navarr/specific-time)  
 ![Tests](https://github.com/navarr/specific-time/actions/workflows/commit.yml/badge.svg)
 ![Code Coverage](https://codecov.io/gh/navarr/specific-time/branch/main/graph/badge.svg?token=BHTKOZZDR3)
+[![Mutation score](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Fnavarr%2Fspecific-time%2Fmain)](https://dashboard.stryker-mutator.io/reports/github.com/navarr/specific-time/main)
 
 This is an implementation of PSR-20 that provides a constant time, no matter how many times `->now()` is called on the object.
 

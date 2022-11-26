@@ -11,7 +11,7 @@ This is an implementation of PSR-20 that provides a constant time, no matter how
 
 ## Installation
 
-    composer require navarr/specific-time:@dev
+    composer require navarr/specific-time:^1
 
 ## Usage
 
